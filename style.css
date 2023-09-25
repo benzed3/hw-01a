@@ -45,11 +45,16 @@ h5 {
     width: 49%;
     float: right;
     text-align: center;
-    padding: 25px 0 25px 0;
+    padding: 25px 0 216px 0;
 }
 
 #footer {
     background: #ebebeb;
+    clear: both;
+    width: 100%;
+    padding: 25px 0 25px 0;
+    text-align: center;
+    margin-top: 15px;
 }
 
 #article {
@@ -74,5 +79,5 @@ h5 {
     color: #777;
     background: #ebebeb;
     margin: 0 15px 0px 15px;
-    padding: 15px 0 216px 0;
+    padding: 15px 0 15px 0;
 }

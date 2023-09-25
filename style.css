@@ -25,16 +25,21 @@ h5 {
 #nav {
     background: #ebebeb;
     text-align: center;
-    margin: 5px 0 5px 0;
+    margin: 5px 0 10px 0;
     padding: 25px 0 25px 0;
 }
 
 #section {
     background: #ebebeb;
+    width: 49%;
+    text-align: center;
 }
 
 #aside {
     background: #ebebeb;
+    width: 49%;
+    float: right;
+    text-align: center;
 }
 
 #footer {

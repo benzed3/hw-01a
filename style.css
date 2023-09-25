@@ -52,14 +52,21 @@ h5 {
     color: #ebebeb;
     background: #777;
     margin: 0 10px 0 10px;
+    padding: 15px 0 15px 0;
+}
+
+#a {
+    padding-bottom: 15px;
 }
 
 #h {
     color: #777;
     background: #ebebeb;
+    margin: 0 15px 5px 15px;
 }
 
 #p {
     color: #777;
     background: #ebebeb;
+    margin: 0 15px 0px 15px;
 }

@@ -33,6 +33,7 @@ h5 {
     background: #ebebeb;
     width: 49%;
     text-align: center;
+    padding: 25px 0 25px 0;
 }
 
 #aside {
@@ -40,6 +41,7 @@ h5 {
     width: 49%;
     float: right;
     text-align: center;
+    padding: 25px 0 25px 0;
 }
 
 #footer {
